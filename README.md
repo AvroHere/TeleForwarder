@@ -7,14 +7,14 @@ A Telegram bot that forwards media from private chats to a target group/channel,
 
 ## Features
 
-- **Queue system**: sends items one-by-one to reduce flood errors citeturn0view0  
-- **Adjustable delay** between sends (default mentioned as 10s) citeturn0view0  
+- **Queue system**: sends items one-by-one to reduce flood errors
+- **Adjustable delay** between sends (default mentioned as 10s) 
 - **Caption tools**
   - Set a custom caption
   - Auto “join link” footer
-  - **Clean mode** (remove all captions) citeturn0view0
-- **Stats / analytics** (daily + lifetime usage per admin) citeturn0view0
-- **Admin-only** (restricted to specific user IDs) citeturn0view0
+  - **Clean mode** (remove all captions)
+- **Stats / analytics** (daily + lifetime usage per admin) 
+- **Admin-only** (restricted to specific user IDs) 
 
 ---
 
