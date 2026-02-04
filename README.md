@@ -1,6 +1,6 @@
 # TeleForwarder — Telegram Media Forwarder Bot
 
-A Telegram bot that forwards media from private chats to a target group/channel, with **queueing**, **delay control**, and **caption handling** (including a “clean mode” to remove captions). citeturn0view0
+A Telegram bot that forwards media from private chats to a target group/channel, with **queueing**, **delay control**, and **caption handling** (including a “clean mode” to remove captions).
 
 
 ---
