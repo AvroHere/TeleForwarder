@@ -2,8 +2,6 @@
 
 A Telegram bot that forwards media from private chats to a target group/channel, with **queueing**, **delay control**, and **caption handling** (including a “clean mode” to remove captions). citeturn0view0
 
-> **Note:** This README was generated automatically (you asked to ignore the existing `README.md`).  
-> It’s written to match the repository layout shown on GitHub: `.env.example`, `bot.py`, `requirements.txt`. citeturn0view0
 
 ---
 
