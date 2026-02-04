@@ -23,6 +23,7 @@ A Telegram bot that forwards media from private chats to a target group/channel,
 ```
 .
 ├─ bot.py
+├─ Readme.md
 ├─ requirements.txt
 └─ .env.example
 ```
@@ -42,6 +43,8 @@ A Telegram bot that forwards media from private chats to a target group/channel,
 
 ```bash
 git clone https://github.com/AvroHere/TeleForwarder.git
+```
+```bash
 cd TeleForwarder
 ```
 
@@ -78,7 +81,7 @@ Common variables for this kind of bot usually include:
 - `BOT_TOKEN` — your bot token from @BotFather  
 - `ADMIN_IDS` — one or more Telegram user IDs allowed to use the bot  
 - `TARGET_CHAT_ID` — the group/channel ID where messages are forwarded  
-- `DEFAULT_DELAY` — delay in seconds (the repo description mentions 10s default) citeturn0view0  
+- `DEFAULT_DELAY` — delay in seconds (the repo description mentions 10s default)  
 - `JOIN_LINK` — link added as footer (if enabled)
 
 ✅ **Important:** Please confirm the exact variable names in `.env.example` and keep them exactly the same in your `.env`.
@@ -90,7 +93,7 @@ Common variables for this kind of bot usually include:
 1. Start the bot.
 2. DM the bot a video/photo/document.
 3. The bot queues it and forwards it to the configured target chat.
-4. Captions can be kept, replaced, appended with a footer, or removed via “clean mode”. citeturn0view0
+4. Captions can be kept, replaced, appended with a footer, or removed via “clean mode”.
 
 ---
 
