@@ -1,0 +1,5 @@
+python-telegram-bot>=20.0
+aiosqlite
+pytz
+python-dotenv
+nest_asyncio
