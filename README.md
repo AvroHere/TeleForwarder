@@ -1,4 +1,4 @@
-# TeleForwarderTelegram Media Forwarder Bot
+# Telegram Media Forwarder Bot
 ​A robust Telegram bot designed to manage and forward media from private chats to a target channel/group with queue management, delay control, and custom captions.
 ​Features
 ​📥 Queue System: Messages are queued and sent one by one to prevent flood errors.
