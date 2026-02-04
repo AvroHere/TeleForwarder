@@ -1,3 +1,5 @@
+from web import keep_alive
+keep_alive()
 import logging
 import asyncio
 import os
