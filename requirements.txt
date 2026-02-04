@@ -3,3 +3,4 @@ aiosqlite
 pytz
 python-dotenv
 nest_asyncio
+Flask
